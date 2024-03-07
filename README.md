@@ -7,7 +7,7 @@ The primary goal of this repository is to:
 
 ## Languages Used
 In this project, the following languages were utilized:
-- **R**: For statistical analysis and meme creation.
+- **R**: For meme creation.
 - **HTML**: To structure the content of web pages.
 - **CSS**: For styling and enhancing the visual presentation.
 
